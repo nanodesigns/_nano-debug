@@ -1,0 +1,20 @@
+/**
+ * _nano_debug styles
+ *
+ * @package _nano_debug
+ */
+
+/**
+ * --------------------------------------------
+ * ALTERNATIVE BORDER.
+ * Draw a blackish border occupying no space.
+ * --------------------------------------------
+ */
+.alt-border{
+	box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;
+}
+
+/* alternative borer - red */
+.alt-border-red{
+	box-shadow: inset 1px -1px 1px red, inset -1px 1px 1px red;
+}
